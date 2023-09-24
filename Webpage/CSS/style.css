@@ -1,0 +1,50 @@
+body{
+    background-color: #00b4d8;
+    font-family: 'Rowdies', cursive;
+    
+
+}
+
+h1{
+    position: static;
+    text-align: center;
+    font-weight: 700;
+    right: 40%;
+    top:10%;
+    left:40%;
+}
+
+.PP{
+    background-color: black;
+}
+
+.urpart{
+    color:white
+}
+
+.btn-warning{
+    position: absolute;
+    margin-left: 47%;
+    font-weight: 300;
+}
+
+.btn-secondary{
+    position: absolute;
+    margin-left: 47%;
+    font-weight: 300;
+}
+
+.card-img-overlay{
+    position: absolute;
+    left: 550px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 500px;   
+    width: 25%;
+    background-color: rgb(24, 31, 102);
+    font-size: 48px;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
